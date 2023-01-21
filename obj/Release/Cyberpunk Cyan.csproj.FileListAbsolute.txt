@@ -1,0 +1,15 @@
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\bin\Release\Cyberpunk_Cyan-Icon.jpg
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\bin\Release\Cyberpunk_Cyan-screenshot.jpg
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\bin\Release\Cyberpunk Cyan.dll
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\bin\Release\Cyberpunk Cyan.pdb
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\bin\Release\Cyberpunk Cyan.vsix
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\bin\Release\extension.vsixmanifest
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\obj\Release\Cyberpunk Cyan.csproj.AssemblyReference.cache
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\obj\Release\_EmptyResource.resources
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\obj\Release\Cyberpunk Cyan.csproj.GenerateResource.cache
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\obj\Release\Cyberpunk Cyan.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\obj\Release\Cyberpunk Cyan.dll
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\obj\Release\Cyberpunk Cyan.pdb
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\obj\Release\extension.vsixmanifest
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\obj\Release\files.json
+C:\Users\Taylor\VisualStudio\repos\Cyberpunk Cyan\obj\Release\createTemplateManifests.cache
