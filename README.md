@@ -7,6 +7,7 @@ A throwback dark mode neon theme for Visual Studio.
 ---
 #### PREVIEW
 
+C++
 ![The theme](Cyberpunk_Cyan-screenshot.jpg)
 
 ---
