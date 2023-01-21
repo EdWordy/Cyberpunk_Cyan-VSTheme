@@ -1,8 +1,17 @@
 # Cyberpunk_Cyan-VSTheme
 
-A dark mode neon theme for Visual Studio.
+#### INTRO
+
+A throwback dark mode neon theme for Visual Studio.
+
+---
+#### PREVIEW
 
 ![The theme](Cyberpunk_Cyan-screenshot.jpg)
+
+---
+
+#### VERSIONING
 
 - Version: 1.0
 - License: MIT License
